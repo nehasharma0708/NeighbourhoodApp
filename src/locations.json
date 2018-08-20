@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Cooksville Library",
+    "latitude": 43.5806464,
+    "longitude": -79.6196941,
+    "country": "Canada"
+  },
+   {
+    "name": "Fairmont Le Château Frontenac",
+    "latitude": 46.811978,
+    "longitude": -71.2071987,
+    "country": "Canada"
+  },
+  {
+    "name": "Tangerine Asian Cuisine",
+    "latitude": 43.9166675,
+    "longitude": -79.026071,
+    "country": "Canada"
+  },
+  {
+    "name": "Niagara Falls",
+    "latitude": 43.054098,
+    "longitude": -79.2281207,
+    "country": "Canada"
+  },
+  {
+    "name": "Canadian War Museum",
+    "latitude": 45.4171032,
+    "longitude": -75.7191305,
+    "country": "Canada"
+  },
+  {
+    "name": "Toronto Eaton Centre",
+    "latitude": 43.6544421,
+    "longitude": -79.3828881,
+    "country": "Canada"
+  }
+]
